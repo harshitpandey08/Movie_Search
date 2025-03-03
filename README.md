@@ -11,7 +11,7 @@ Welcome to the Movie Search App! This web application allows users to search for
 
 ## Deployment
 
-The Movie Search App is deployed and accessible via this [link](https://6601c4d2829f002c9fc64d56--dainty-kataifi-2e1d20.netlify.app/).
+The Movie Search App is deployed and accessible via this [link](https://movie-search-nine-jade.vercel.app/).
 
 
 
